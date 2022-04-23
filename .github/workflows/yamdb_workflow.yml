@@ -41,7 +41,7 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: dmitrii031985/yamdb:latest
+          tags: dmitrii1619850308/yamdb:latest
   deploy:
     runs-on: ubuntu-latest
     needs: build_and_push_to_docker_hub
