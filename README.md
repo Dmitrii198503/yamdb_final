@@ -70,6 +70,7 @@ python manage.py loaddata fixtures.json
 
 После запуска проекта, подробную инструкцию можно будет посмотреть по адресу http://0.0.0.0/redoc/
 
+
 Автор
 
 Дмитрий Голубцов - https://github.com/Dmitrii198503
